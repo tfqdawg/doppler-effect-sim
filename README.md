@@ -1,2 +1,1 @@
-# doppler-effect-sim
-Doppler effect sim in C++.
+## <p align="center"> C++ Doppler Effect Sim. </p>
